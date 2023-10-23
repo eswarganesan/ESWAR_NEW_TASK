@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: kaiburr
+      host: localhost
+      port: 27017
