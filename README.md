@@ -17,6 +17,13 @@ Use that environment
 Create  a new docker image in that environment 
 ![1](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/720eba3b-c0ef-44f6-a811-a80f1287fe5c)
 
+Docker Containers
+![doc1](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/5b213531-d6e8-4acd-af45-d8e3b76a6f9e)
+
+Docker Images
+![doc2](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/e8fa84a6-6f27-4649-91df-d17ae912cf64)
+
+
 Create deployment
 Get deployments
 Describe the deployment 
