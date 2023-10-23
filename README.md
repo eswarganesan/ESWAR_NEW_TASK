@@ -36,6 +36,24 @@ Get Service
 Minikube Service 
 
 Port will be displayed  http://127.0.0.1:56720
+![4](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/ed8f461f-6d63-4bb3-ae5e-3aa23fbde7bd)
+Add data
+
+![ADD](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/5244ca07-9ca1-47db-bbcf-550987c5cf01)
+
+Get data
+
+![added](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/a351318b-9085-44ec-9893-3e2adc0a127d)
+
+Get BY Name
+
+![getname](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/132eb11d-aa74-4703-9fb4-af31155dd5ce)
+
+![get res](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/aed90206-36ba-469e-9039-a27fd6095499)
+
+
 Dashboard link will also be displayed
 
 ![4](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/ed8f461f-6d63-4bb3-ae5e-3aa23fbde7bd)
+
+
