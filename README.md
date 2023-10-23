@@ -56,4 +56,27 @@ Dashboard link will also be displayed
 
 ![4](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/ed8f461f-6d63-4bb3-ae5e-3aa23fbde7bd)
 
+Kubernet Dashboard:
+
+Workload 
+![k81](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/10f41d8b-e348-4cea-8ba7-3ae239919736)
+
+![k82](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/59442673-9577-40f8-8af3-1b68b1bf0300)
+
+
+
+Deployment image 
+
+![deploy1](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/7a44bde9-479d-4d19-bba8-2eb5f9124c12)
+
+![deploy2](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/52d4a700-773f-41ed-9d5a-9544fe56763f)
+
+Pod 
+![pod1](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/3169c75b-0043-49fc-913a-f76d3ebc32a2)
+
+![pod2](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/72e06f92-0a28-4aae-b7ac-ca4723502186)
+
+Replicas 
+
+![replica](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/5632fe3b-9588-481d-9941-608f175fcdaf)
 
