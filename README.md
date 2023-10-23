@@ -7,6 +7,7 @@ Pull image in docker
 Created a docker image named mongo for mongodb
 Created a docker Container named localhost
 Created a docker image named springboot for Springboot api developed
+Link both images
 
 ![w2](https://github.com/eswarganesan/ESWAR_NEW_TASK/assets/104221146/f35f5549-081a-410f-ad29-145715ce8264)
 
